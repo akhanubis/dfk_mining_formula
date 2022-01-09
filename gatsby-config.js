@@ -7,5 +7,5 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
-  pathPrefix: `/uma_kpi_list`,
+  pathPrefix: `/dfk_mining_formula`,
 }
