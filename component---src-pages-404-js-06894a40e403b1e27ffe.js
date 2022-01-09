@@ -1,0 +1,2 @@
+(self.webpackChunkdfk_mining_formula=self.webpackChunkdfk_mining_formula||[]).push([[883],{9616:function(n,u,e){"use strict";e.r(u),e.d(u,{default:function(){return r}});var f=e(7294);function r(){return f.createElement("div",null,"404")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-06894a40e403b1e27ffe.js.map

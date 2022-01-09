@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://dfk_mining_formula/./src/pages/404.js"],"names":["NotFound"],"mappings":"wLAEe,SAASA,IACtB,OAAO","file":"component---src-pages-404-js-06894a40e403b1e27ffe.js","sourcesContent":["import React from \"react\"\r\n\r\nexport default function NotFound() {\r\n  return <div>404</div>\r\n}\r\n"],"sourceRoot":""}
